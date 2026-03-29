@@ -1,10 +1,9 @@
-# Ppm Image
+# ppm_image
 
-A zero-dependency Python CLI tool.
-
-## Usage
+PPM image creation with drawing primitives, grayscale, flip, crop, save/load
 
 ```bash
-python ppm_image.py test
-python ppm_image.py demo
+python3 ppm_image.py test
 ```
+
+Zero deps. Python 3.8+.
